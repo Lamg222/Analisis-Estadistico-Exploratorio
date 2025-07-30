@@ -132,7 +132,6 @@ Para cada distribución `xxx`:
 #### 📊 **Visualizaciones Avanzadas:**
 - Curvas de densidad superpuestas
 - Comparación de distribuciones
-- Simulaciones Monte Carlo
 - Verificación de ajuste teórico vs empírico
 
 ---
